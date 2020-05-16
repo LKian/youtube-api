@@ -18,7 +18,6 @@ class App extends React.Component {
         key: APP_KEY,
       },
     });
-    console.log(response.data.items);
     this.setState({ videos: response.data.items });
   };
 
