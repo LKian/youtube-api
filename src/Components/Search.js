@@ -23,6 +23,7 @@ class Search extends React.Component {
               type="text"
               value={this.state.term}
               onChange={this.onInputChange}
+              placeholder="Type a keyword"
             ></input>
           </div>
         </form>
