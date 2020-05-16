@@ -1,0 +1,9 @@
+.ui.relaxed.divided.list .video-single {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.ui.relaxed.divided.list .video-single img {
+  max-width: 175px;
+}
