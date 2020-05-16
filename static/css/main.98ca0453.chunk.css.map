@@ -1,0 +1,1 @@
+{"version":3,"sources":["Video.css"],"names":[],"mappings":"AAAA,uCACE,YAAa,CACb,kBAAmB,CACnB,cACF,CAEA,2CACE,eACF","file":"main.98ca0453.chunk.css","sourcesContent":[".ui.relaxed.divided.list .video-single {\r\n  display: flex;\r\n  align-items: center;\r\n  cursor: pointer;\r\n}\r\n\r\n.ui.relaxed.divided.list .video-single img {\r\n  max-width: 175px;\r\n}\r\n"]}
